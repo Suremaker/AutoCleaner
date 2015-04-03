@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>AutoCleaner</id>
+    <version>$version$</version>
+    <title>AutoCleaner</title>
+    <authors>Wojciech Kotlarski</authors>
+    <owners>Wojciech Kotlarski</owners>
+    <licenseUrl>http://opensource.org/licenses/BSD-2-Clause</licenseUrl>
+    <projectUrl>https://github.com/Suremaker/AutoCleaner</projectUrl>
+    <iconUrl></iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Automated Cleaning Tool, allowing to reduce manual cleanup code in SetUp / TearDown methods used in test projects.</description>
+    <summary>$description$</summary>
+    <releaseNotes>Introduced StateCleaner allowing to reset instance state.</releaseNotes>
+    <copyright>Copyright © Wojciech Kotlarski 2015</copyright>
+    <tags>unit testing auto cleanup nunit mstest vstest mbunit</tags>
+    <language>en-US</language>
+    <dependencies>
+      <group targetFramework=".NETFramework3.5"/>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="..\Changelog.txt" target="." />
+    <file src="..\LICENSE.txt" target="." />
+    <file src="..\README.md" target="." />
+  </files>
+</package>

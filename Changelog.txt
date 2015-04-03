@@ -1,0 +1,6 @@
+AutoCleaner
+===========================================
+
+Version 1.0.0.0
+----------------------------------------
++ Added StateCleaner with ResetInstance method
