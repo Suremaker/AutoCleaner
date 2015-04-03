@@ -8,7 +8,6 @@
     <owners>Wojciech Kotlarski</owners>
     <licenseUrl>http://opensource.org/licenses/BSD-2-Clause</licenseUrl>
     <projectUrl>https://github.com/Suremaker/AutoCleaner</projectUrl>
-    <iconUrl></iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Automated Cleaning Tool, allowing to reduce manual cleanup code in SetUp / TearDown methods used in test projects.</description>
     <summary>$description$</summary>
